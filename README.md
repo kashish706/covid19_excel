@@ -1,7 +1,7 @@
 🦠 COVID-19 Data Analysis – India 
 📘 Project Overview
 This project presents an interactive Excel-based dashboard that visualizes the impact of the COVID-19 pandemic across Indian states and union territories. 
-The dashboard was created as part of my B.Tech CSE coursework for the INT217 (Data Science Lab) course.
+The dashboard was created as part of my B.Tech CSE coursework for the INT217 course.
 By using Microsoft Excel’s powerful features like PivotTables, PivotCharts, Slicers, and Map Charts, the dashboard enables users to explore trends in 
 confirmed cases, deaths, recoveries, testing rates, and vaccination progress — all in an interactive and user-friendly format.
 
